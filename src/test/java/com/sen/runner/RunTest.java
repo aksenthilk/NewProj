@@ -17,5 +17,6 @@ import cucumber.api.junit.Cucumber;
 public class RunTest {
 
 }
+//Extent reporting needs HTMLExtentReporter,ExtentReports
 //removed monochrome = true,
 //removed format and added plugin
